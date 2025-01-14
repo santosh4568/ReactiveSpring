@@ -60,17 +60,12 @@ The frontend is built using React and provides a user interface for interacting 
 
 ### Backend Setup
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-   ```
-
-2. Build the project using Maven:
+1. Build the project using Maven:
    ```bash
    mvn clean install
    ```
 
-3. Run the Spring Boot application:
+2. Run the Spring Boot application:
    ```bash
    mvn spring-boot:run
    ```
