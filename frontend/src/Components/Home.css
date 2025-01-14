@@ -1,0 +1,32 @@
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.home-container h1 {
+  margin-bottom: 20px;
+  font-size: 2em;
+  color: #333;
+}
+
+.home-container p {
+  margin-bottom: 15px;
+  font-size: 1.2em;
+  color: #666;
+}
+
+.home-container ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.home-container li {
+  margin-bottom: 10px;
+  font-size: 1em;
+  color: #333;
+}
